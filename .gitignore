@@ -1,0 +1,4 @@
+__pycache__/
+graph.dot
+graph.svg
+*.log.md.tmp
